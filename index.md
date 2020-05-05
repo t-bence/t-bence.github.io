@@ -1,7 +1,7 @@
 # t-bence's Github page
 Welcome
 
-Mardown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Code with syntax highlighting: 
 
