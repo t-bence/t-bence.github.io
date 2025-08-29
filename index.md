@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Bence Tóth
 ---
 
 # Contact details
