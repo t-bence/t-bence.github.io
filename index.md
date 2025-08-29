@@ -1,17 +1,4 @@
-# t-bence's Github page
-Welcome
+# Contact details
 
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Find me on LinkedIn: <https://www.linkedin.com/in/bencetothphd/>
 
-Code with syntax highlighting: 
-
-Python:
-```python
-s = "Hello world"
-print(s)
-```
-
-Scala:
-```scala
-Range(0, 5).map(i => i*i).sum
-```
